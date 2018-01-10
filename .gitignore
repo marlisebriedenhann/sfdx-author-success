@@ -1,0 +1,4 @@
+# Based on https://github.com/mailtoharshit/gitignore
+
+# Project Settings and MetaData
+.sfdx

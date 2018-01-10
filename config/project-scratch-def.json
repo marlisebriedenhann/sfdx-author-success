@@ -2,6 +2,6 @@
     "orgName": "Envato",
     "edition": "Enterprise",
     "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled", "ChatterEnabled"]
+        "enabled": ["S1DesktopEnabled", "ChatterEnabled", "NotesReservedPref01"]
     }
 }
