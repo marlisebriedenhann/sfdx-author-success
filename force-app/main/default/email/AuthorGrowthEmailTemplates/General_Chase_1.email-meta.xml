@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: General Chase 1</name>
+    <style>none</style>
+    <subject>Special offer for early sign ups to new PhotoDune &amp; Envato Elements - don't miss out!</subject>
+    <textOnly>Hi {!Account.Name},
+
+{!User.FirstName} here from Envato, hope you're doing well!
+
+A few weeks ago we sent you some details about how PhotoDune is changing. We wanted to follow up on this as we’ve not heard from you.
+
+We’re making BIG changes to how we do stock photography at Envato. These changes will impact you directly and we’ve been trying to get in touch with you.
+
+
+What we’ve seen in your portfolio shows us you’re the kind of photographer we want to have in this new world of PhotoDune + Envato Elements. For you, this is a great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.
+
+What we're offering:
+
+Limited-time PhotoDune non-exclusive author fee for early sign-ups, reduced from 55% down to 37.5%. That’s around 50% net earnings from every sale!
+Join a select group of contributors on Envato Elements and earn your share of 50% of Elements’ net revenue, calculated under our innovative subscriber share model
+Choose your own pricing on PhotoDune
+Automatic approval/instant upload (no more review queues)
+
+What you'll need to do:
+
+Step one is to make your items available for inclusion on Envato Elements. Envato Elements is a separate company to PhotoDune with its own set of contributor terms, so please take some time to read and accept the Envato Elements Contributor Agreement
+
+That’s it! Step one gets us all on the same page. We’ll share more details in the not too distant future but signing this agreement gets the ball rolling and gets you one step closer to amazing reduced author fees and significantly greater earnings potential.
+
+If you have questions about any of this, feel free to reach out to us (author-success@envato.com).
+
+We’re looking forward to calling you a ‘contributor’ and can’t wait to see what you come up with next!
+
+We'll then be in touch to share next steps :)
+
+Thanks
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GoToReviewedItemsSinceLastClosedInteraction</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>600</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>See reviews since last closed interaction</masterLabel>
+    <openType>newWindow</openType>
+    <position>none</position>
+    <protected>false</protected>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>https://reports.envato.com/views/QCAppreportsQCAppdatasource/OutputSummary?author_uuid=
+{!Account.UUID__c}
+&amp;Filter%20date%20ON%2FOFF={!IF(ISBLANK( Account.ReportLastClosedInteractionDate__c ), "OFF", "ON")}
+&amp;Flagged%20at%20start%20date={!IF(ISBLANK( Account.ReportLastClosedInteractionDate__c ), "", Account.ReportLastClosedInteractionDate__c )}
+&amp;Flagged%20at%20end%20date={!IF(ISBLANK( Account.ReportLastClosedInteractionDate__c ), "", Account.ReportTodaysDate__c )}
+&amp;:embed=yes&amp;:tabs=no</url>
+</WebLink>

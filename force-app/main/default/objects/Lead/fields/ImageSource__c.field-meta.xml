@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ImageSource__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Prospective author's image source for featuring one of their photos in initial outreach email</inlineHelpText>
+    <label>Image Source</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Url</type>
+</CustomField>

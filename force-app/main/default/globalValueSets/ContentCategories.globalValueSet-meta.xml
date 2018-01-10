@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>3D</fullName>
+        <default>false</default>
+        <label>3D</label>
+    </customValue>
+    <customValue>
+        <fullName>Add-ons</fullName>
+        <default>false</default>
+        <label>Add-ons</label>
+    </customValue>
+    <customValue>
+        <fullName>After Effects</fullName>
+        <default>false</default>
+        <label>After Effects</label>
+    </customValue>
+    <customValue>
+        <fullName>Audio</fullName>
+        <default>false</default>
+        <label>Audio</label>
+    </customValue>
+    <customValue>
+        <fullName>CMS Templates</fullName>
+        <default>false</default>
+        <label>CMS Templates</label>
+    </customValue>
+    <customValue>
+        <fullName>Fonts</fullName>
+        <default>false</default>
+        <label>Fonts</label>
+    </customValue>
+    <customValue>
+        <fullName>Graphics</fullName>
+        <default>false</default>
+        <label>Graphics</label>
+    </customValue>
+    <customValue>
+        <fullName>Graphic Templates</fullName>
+        <default>false</default>
+        <label>Graphic Templates</label>
+    </customValue>
+    <customValue>
+        <fullName>Photos</fullName>
+        <default>false</default>
+        <label>Photos</label>
+    </customValue>
+    <customValue>
+        <fullName>Presentation Templates</fullName>
+        <default>false</default>
+        <label>Presentation Templates</label>
+    </customValue>
+    <customValue>
+        <fullName>Stock Footage</fullName>
+        <default>false</default>
+        <label>Stock Footage</label>
+    </customValue>
+    <customValue>
+        <fullName>Video</fullName>
+        <default>false</default>
+        <label>Video</label>
+    </customValue>
+    <customValue>
+        <fullName>Web Templates (HTML)</fullName>
+        <default>false</default>
+        <label>Web Templates (HTML)</label>
+    </customValue>
+    <customValue>
+        <fullName>WordPress Plugins</fullName>
+        <default>false</default>
+        <label>WordPress Plugins</label>
+    </customValue>
+    <customValue>
+        <fullName>WordPress Themes</fullName>
+        <default>false</default>
+        <label>WordPress Themes</label>
+    </customValue>
+    <masterLabel>Content Categories</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>VH After Effects Invite 1</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>VH After Effects Invite 1</name>
+    <style>none</style>
+    <subject>You're Invited! After Effects is Coming to Envato Elements</subject>
+    <textOnly>Envato Elements Invite    Reply now!
+
+After Effects is Coming to Envato Elements
+
+You're Invited!
+
+Hi {!Account.Name},
+
+
+{!User.FirstName} here from Envato, hope you're doing well!
+
+
+After Effects is coming to Envato Elements. We've spent countless hours looking at portfolios on VideoHive in search of our best authors and think you could be a great fit.
+
+
+There's a lot of excitement building around this launch, and we know it's going to be a big hit with our active and growing subscriber base. For authors, this opportunity represents an awesome way for you to reach new customers and earn more. In fact, monthly subscriptions &amp; author earnings on Elements are growing steadily. You don’t want to miss this!
+
+
+Why should I consider Envato Elements?
+
+Be part of a strictly limited group of high-quality authors
+Experience a whole new revenue stream for your new and existing items
+Reach a new, high-end audience, including agencies, marketers &amp; designers.
+One simple commercial license to help reach as wide an audience as possible
+No support commitment. If subscribers wish to gain access to support, they will need to purchase a licence on VideoHive
+Marketing &amp; promotion investment from Envato to continuously grow the subscriber base. Now is a good to time to join!
+
+
+As an author on Envato Elements, you’ll share in 50% of the net revenue from subscribers, divided using the innovative Subscriber Share method. After Effects items, along with WordPress themes and plugins, will only be available on annual subscriptions.
+
+
+I’m interested, what do I do next?
+All you need to do at this stage is express your interest as soon as possible. We’ll then provide more detailed information on next steps. (We’re aiming to launch After Effects mid-March 2018)
+
+
+Just hit reply now and let us know you’re interested!
+
+
+We’d love to have you as an author on Elements and look forward to hearing from you shortly.
+
+
+Thanks,
+{!User.FirstName}
+Envato Elements
+
+Envato Elements
+
+&lt;a href="https://envato.formstack.com/forms/author_growth_email_unsubscribe?email_address={!Contact.Email}&amp;last_name={!Contact.LastName}">Unsubscribe&lt;/a></textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

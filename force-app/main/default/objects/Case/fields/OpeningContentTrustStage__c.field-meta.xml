@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OpeningContentTrustStage__c</fullName>
+    <description>The stage in the Content Trust Pipeline this author was at when this interaction was opened.</description>
+    <externalId>false</externalId>
+    <label>Opening Content Trust Stage</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetName>ContentPipelineStages</valueSetName>
+    </valueSet>
+</CustomField>

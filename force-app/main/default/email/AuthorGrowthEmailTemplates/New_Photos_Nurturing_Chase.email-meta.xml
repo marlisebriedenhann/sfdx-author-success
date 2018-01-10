@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>New Photos: Nurturing Chase</description>
+    <encodingKey>UTF-8</encodingKey>
+    <name>New Photos: Nurturing Chase</name>
+    <style>none</style>
+    <subject>Still interested in joining Envato Elements?</subject>
+    <textOnly>Envato Elements Invite   
+
+Still Interested?
+
+New Earning Opportunity for Photographers
+
+Hi {!Lead.Company}
+
+A short time ago you responded to our invite to upload photos to Envato Elements and the PhotoDune marketplace.
+
+
+We wanted to follow up as we’ve yet to hear from you. If you're still interested please create a free Envato Author Account. https://author.envato.com/join
+
+
+Once you’ve created your Envato Market account, please send me your username so we can set up your photo manager!
+
+
+Feel free to ask any questions you may have and hope to hear from you soon! :-)
+
+Regards,
+{!User.FirstName}
+Envato Elements
+
+Envato Elements
+
+© 2017 Envato Elements Pty Ltd.
+(ABN: 87 613 824 258)
+121 King Street, Melbourne VIC 3000 Australia
+
+To opt out of further emails from us about joining Elements, simply reply to this email with the word "Unsubscribe" in the subject line.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

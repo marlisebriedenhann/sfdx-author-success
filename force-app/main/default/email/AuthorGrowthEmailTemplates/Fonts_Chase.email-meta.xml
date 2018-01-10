@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Fonts Chase</name>
+    <style>none</style>
+    <subject>Re: You're invited to become a contributor on Envato Elements</subject>
+    <textOnly>Hi {!Account.00N6F00000GPn2N},
+
+I wanted to follow up to see if you've had a chance to review the offer I sent you a few weeks ago about becoming a contributor on Elements.
+
+Please reply and let me know to confirm your interest and progress to the next stage.
+
+To remind you of the offer: Elements is a new product by Envato offering a subscription service for digital assets. Elements offers a carefully curated selection of high quality graphic design assets to a target audience of agencies, designers, corporate marketers and other professionals with a regular need for high quality assets.
+
+For you, this represents a great opportunity to reach new customers and earn more revenue.
+
+Why should I join Envato Elements?
+
+Be part of a strictly limited group of high-quality contributors
+Elements is non-exclusive - Earn extra money on top of your existing earnings.
+Reach a new high-end audience, including agencies, marketers, &amp; designers.
+Your items are beautifully presented.
+One simple commercial license to help reach as wide an audience as possible.
+Massive promotion - our biggest ongoing marketing spend ever.
+In the next few weeks our focus will be on promoting Web Fonts, so now is a good to time to join!
+
+As a contributor on Envato Elements, you’ll share in 50% of the net revenue from subscribers, revenue is divided using the Subscriber Share method. From our side, we are making a heavy investment in marketing &amp; promotion to attract a large new audience of design professionals, as well as tapping into Envato’s huge existing channels.
+
+What do I have to do to participate?
+
+At this stage, all you need to do is express your interest in participating. We’ll then provide more information to help you make an informed decision.
+
+Just hit reply now and let us know you’re interested!
+
+We'd love to have you as a contributor and look forward to hearing from you shortly.
+
+Thanks!
+Shane Freer
+Envato Elements
+shane.freer@envato.com
+envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

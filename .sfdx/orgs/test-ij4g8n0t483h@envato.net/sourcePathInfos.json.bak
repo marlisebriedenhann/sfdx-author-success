@@ -1,0 +1,4027 @@
+[
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515468334000,
+            "changeTime": 1515468334000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515468334000,
+            "changeTime": 1515468334000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default",
+            "isDirectory": true,
+            "size": 714,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "88d6571b012666d41a7dfc164dd39c60faa0703c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "91c9f14c48c2c340a9f8e0b406d10f6348bfa9c4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/applications/Envato_App.app-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/applications/Envato_App.app-meta.xml",
+            "isDirectory": false,
+            "size": 1295,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "85e048d85c68fec5dbc8f9c3bae873e0ccc8dd48",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1515468334000,
+            "changeTime": 1515468334000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 680,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3badfb3338eb9d7949e8a9f89485d26659f7b8f8",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJob.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJob.cls",
+            "isDirectory": false,
+            "size": 3108,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "90e74003169e144c486332a716fc32cf3358cc94",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJob.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJob.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJobTest.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJobTest.cls",
+            "isDirectory": false,
+            "size": 3817,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ff6d21021f0aef375a27494b0dec5abc414c58ec",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJobTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateJobTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateScheduler.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateScheduler.cls",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f5409921a5df7dad2b2c79a6db2e168646813285",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateScheduler.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateScheduler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateSchedulerTest.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateSchedulerTest.cls",
+            "isDirectory": false,
+            "size": 1121,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0573399145fc8187d7cf50a3dd85581f548270c6",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateSchedulerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/AuthorReviewsUpdateSchedulerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJob.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJob.cls",
+            "isDirectory": false,
+            "size": 2972,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "97ad81e459bd60a10af3d3e7a2e0fabcb04eb50f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJob.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJob.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJobTest.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJobTest.cls",
+            "isDirectory": false,
+            "size": 3314,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "560db33774de4b9ba657973f7664c888e7560d4f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJobTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/FormatUuidBatchJobTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClient.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClient.cls",
+            "isDirectory": false,
+            "size": 4182,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "9ad3407a3e86cd2552f5dc3359ca24012f89a30c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClient.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClient.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClientTest.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClientTest.cls",
+            "isDirectory": false,
+            "size": 5774,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bc5e30727d3f45c0717177f9166c9876d83db7e8",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClientTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/PhotoQCClientTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/TestUtil.cls",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/TestUtil.cls",
+            "isDirectory": false,
+            "size": 1301,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "64255521df7850d7c8bc424d8df13bcd3405bd1a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/TestUtil.cls-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/classes/TestUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "6f7fb6a1f3980449aca048bcf2b5718ba2b1e9f5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets/envatologo.asset",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets/envatologo.asset",
+            "isDirectory": false,
+            "size": 12531,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bcc3be7fa0623f681c840633e61762f13ede61d2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets/envatologo.asset-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/contentassets/envatologo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4a14edc4bda32f6443a3ad09fdf5dced591e4c47",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "401a8bab7be2aaa45396d18d225d1dd097517dae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorGrowthDashboards",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorGrowthDashboards",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorGrowthDashboards.dashboardFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorGrowthDashboards.dashboardFolder-meta.xml",
+            "isDirectory": false,
+            "size": 1046,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "142a6013b4f4d4c5d7b01ddcc4519f6fa357670e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorManagementDashboards",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorManagementDashboards",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorManagementDashboards.dashboardFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/dashboards/AuthorManagementDashboards.dashboardFolder-meta.xml",
+            "isDirectory": false,
+            "size": 1061,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0f8b377044198cb32c55c4a2aa59cb8202811cf2",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "116d6e0144d74b6575ecb3ebacd001ae3a9ae258",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates",
+            "isDirectory": true,
+            "size": 1496,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "9a81ab4daf6e474c0fface3796b4cf34f39d01ee",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_2_for_New_Earnings_Op_Photo_Template.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_2_for_New_Earnings_Op_Photo_Template.email",
+            "isDirectory": false,
+            "size": 26792,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "fa6dd701eefdd1a10340572d10de6806c310c914",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_2_for_New_Earnings_Op_Photo_Template.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_2_for_New_Earnings_Op_Photo_Template.email-meta.xml",
+            "isDirectory": false,
+            "size": 2276,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f1db3619275efafcb0dcd4fa8bbee29251a0f7d0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_for_New_Earnings_Op_Template_B.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_for_New_Earnings_Op_Template_B.email",
+            "isDirectory": false,
+            "size": 26486,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "28019ff4f92c5ed4c993b8cf0c9b24c4b613453e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_for_New_Earnings_Op_Template_B.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Chase_for_New_Earnings_Op_Template_B.email-meta.xml",
+            "isDirectory": false,
+            "size": 2173,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ff720b7e09f35b78f77dd41dcef48022aaa65bc6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Elements_Fonts_Contest.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Elements_Fonts_Contest.email",
+            "isDirectory": false,
+            "size": 2493,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8b93b6ccc5f849b476adf13fb8cde6c10cfccc39",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Elements_Fonts_Contest.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Elements_Fonts_Contest.email-meta.xml",
+            "isDirectory": false,
+            "size": 2231,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e8c814207079c80e32b12214c3e3a8b1f651ab26",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Embeded_photo_test.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Embeded_photo_test.email",
+            "isDirectory": false,
+            "size": 29053,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f40f9a4ee179d541a5405fb718fb71b6bdb28082",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Embeded_photo_test.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Embeded_photo_test.email-meta.xml",
+            "isDirectory": false,
+            "size": 2572,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "486c7b21e546ce3fe04437e4d07144be18f98941",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Fonts_Chase.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Fonts_Chase.email",
+            "isDirectory": false,
+            "size": 2531,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5729e86ec4dd954ffc3a987f9a2c90e0530f9f62",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Fonts_Chase.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Fonts_Chase.email-meta.xml",
+            "isDirectory": false,
+            "size": 2590,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "86820b1d8828cf72c9ba402bcaf9692eb8721bb1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_1.email",
+            "isDirectory": false,
+            "size": 2860,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a63648fdfd46b1ca8bf103198eb8667fffe50101",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_1.email-meta.xml",
+            "isDirectory": false,
+            "size": 2653,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "41342b20fa9f7ea69f91ea657efefb4fa7dc4bcc",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_2.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_2.email",
+            "isDirectory": false,
+            "size": 2353,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7e1b48dfcf09238572548f1115aa2825e4fb6a3b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_2.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_2.email-meta.xml",
+            "isDirectory": false,
+            "size": 2119,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "38318b9d24ff699a3f8be45dec1c182111f855d4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_3.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_3.email",
+            "isDirectory": false,
+            "size": 1975,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b3ac0c5280800d0a74cddcdfc327152527b98eca",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_3.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_3.email-meta.xml",
+            "isDirectory": false,
+            "size": 1808,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "579fff116911512f40626c9c36d6502249742847",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_4.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_4.email",
+            "isDirectory": false,
+            "size": 1975,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b3ac0c5280800d0a74cddcdfc327152527b98eca",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_4.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/General_Chase_4.email-meta.xml",
+            "isDirectory": false,
+            "size": 1823,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ecd2d73584e18a145b4f593f9d02bb4b2c64eaf5",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earning_Opportunity_for_Photographers.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earning_Opportunity_for_Photographers.email",
+            "isDirectory": false,
+            "size": 28120,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "eb37298bf77b0ba34eb7d2dace4220c1e1d25c15",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earning_Opportunity_for_Photographers.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earning_Opportunity_for_Photographers.email-meta.xml",
+            "isDirectory": false,
+            "size": 2600,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bc3bbb97293bbe197791f1346b2888207d1fe604",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B.email",
+            "isDirectory": false,
+            "size": 26357,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "fb6008e62f3dedefad91bc92047aed2172736481",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B.email-meta.xml",
+            "isDirectory": false,
+            "size": 2195,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bd43c3a68f0c20eb4812c100b75a95f903ce63ee",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B_Plain_Text1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B_Plain_Text1.email",
+            "isDirectory": false,
+            "size": 1963,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "892c61c70e67b82020cb5ce1e455501b279cd61e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B_Plain_Text1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Earnings_Opportunity_B_Plain_Text1.email-meta.xml",
+            "isDirectory": false,
+            "size": 2248,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "60ea6e244e7b11eefc39f082fd76b20a3527a40e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Photos_Nurturing_Chase.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Photos_Nurturing_Chase.email",
+            "isDirectory": false,
+            "size": 25001,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e3989a64878201b1861013407e4c8e84b27862c6",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Photos_Nurturing_Chase.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/New_Photos_Nurturing_Chase.email-meta.xml",
+            "isDirectory": false,
+            "size": 1372,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d1f2c95ac6445653b55f2b505436a49c9186d6b9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in.email",
+            "isDirectory": false,
+            "size": 2480,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d68fe8ee330295c57b8f7575f45348eef04803aa",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in.email-meta.xml",
+            "isDirectory": false,
+            "size": 2261,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b5d7b51f0c33d5eedf59a45e8fdec755f5185174",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_1.email",
+            "isDirectory": false,
+            "size": 1866,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "03fa088187b5dfc3e7e21dfa9e64dfa9463adcc3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_1.email-meta.xml",
+            "isDirectory": false,
+            "size": 2270,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "083e10c8063fa101036c267c4cf2501d9555d9ea",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_2.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_2.email",
+            "isDirectory": false,
+            "size": 1866,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "03fa088187b5dfc3e7e21dfa9e64dfa9463adcc3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_2.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Opted_in_final_2.email-meta.xml",
+            "isDirectory": false,
+            "size": 2244,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ce3ad60e2d26e6f739731ec881e3953e9b76d148",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/PhotoDune_Only.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/PhotoDune_Only.email",
+            "isDirectory": false,
+            "size": 2138,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ff4282d923e3547582606010b53d582ab2c3da00",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/PhotoDune_Only.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/PhotoDune_Only.email-meta.xml",
+            "isDirectory": false,
+            "size": 2309,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "318f61c7fe5391f911ca10b82c3e81a50a9d7c33",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Photodune_Reapply_1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Photodune_Reapply_1.email",
+            "isDirectory": false,
+            "size": 1587,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e4f7c848d9aebd76bb636c080a7c16a228ec6009",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Photodune_Reapply_1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/Photodune_Reapply_1.email-meta.xml",
+            "isDirectory": false,
+            "size": 1739,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8de529510ef0853baa1a7d81f703665cffedf32a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AE_Initial_Invite_1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AE_Initial_Invite_1.email",
+            "isDirectory": false,
+            "size": 27790,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "428234f70d722e10f777cac3a9a5dd4e383e6507",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AE_Initial_Invite_1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AE_Initial_Invite_1.email-meta.xml",
+            "isDirectory": false,
+            "size": 2681,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "88944d59ba884f3eff5ff13dde2debbd83fe2a05",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AM_Initial_Invite_1.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AM_Initial_Invite_1.email",
+            "isDirectory": false,
+            "size": 27566,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "6e5d205be78e7592fee505630fdcff3f00eacef2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AM_Initial_Invite_1.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_AM_Initial_Invite_1.email-meta.xml",
+            "isDirectory": false,
+            "size": 2570,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3190c90dd01a00d0b59bef2ae6e84de1f565ba80",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_After_Effects_Invite_Chase.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_After_Effects_Invite_Chase.email",
+            "isDirectory": false,
+            "size": 27674,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8341671b8f65ad01c3fb373b87f573051bbabcbc",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_After_Effects_Invite_Chase.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates/VH_After_Effects_Invite_Chase.email-meta.xml",
+            "isDirectory": false,
+            "size": 2676,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4ecb46c194c87e716d441db5fa1d8879b5629176",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates.emailFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorGrowthEmailTemplates.emailFolder-meta.xml",
+            "isDirectory": false,
+            "size": 321,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "469b8c3fa9c46fc817d5072017add09026f6b63d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates",
+            "isDirectory": true,
+            "size": 408,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5f8fdadbfd2487278aaff5dcd1646f286a91b215",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Farewell.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Farewell.email",
+            "isDirectory": false,
+            "size": 1471,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "af96188c2e9e462f0dae92da78d18e9e2733f41f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Farewell.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Farewell.email-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "92df11ae126cce02873e85fa6d0e05916d566fed",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Alert.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Alert.email",
+            "isDirectory": false,
+            "size": 2257,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "06e17039d1f451ccda10fe7934f5778a71f978ae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Alert.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Alert.email-meta.xml",
+            "isDirectory": false,
+            "size": 532,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3696dba9ef35e1329db6b535f9165b0cb5cb1deb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Notice.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Notice.email",
+            "isDirectory": false,
+            "size": 2382,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "80319f899e4b82990a6d5af10fe66a203960953b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Notice.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_First_Quality_Notice.email-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2e805a63b9971a1e8cd14416afdb31632bb26124",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Second_Quality_Notice.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Second_Quality_Notice.email",
+            "isDirectory": false,
+            "size": 2462,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "00a11b454ed9109df662df63fcc645f47d561db9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Second_Quality_Notice.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Second_Quality_Notice.email-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "fbf8611def218198c7a861bebf3c30d5fca45fe6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Spot_Check.email",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Spot_Check.email",
+            "isDirectory": false,
+            "size": 1472,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "447bfd0256f85a492881265c474cb87d752ed321",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Spot_Check.email-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates/Author_Management_Spot_Check.email-meta.xml",
+            "isDirectory": false,
+            "size": 505,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7f8d5a4de07a149917e201972b28bb07b601e129",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates.emailFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/email/AuthorManagementEmailTemplates.emailFolder-meta.xml",
+            "isDirectory": false,
+            "size": 329,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f94bcd378cc25b4f0a235b44599f0dbdd03fb568",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bb72f203229d987f2392b93ffb8a2ae016ed806f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flexipages/Opportunity_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flexipages/Opportunity_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4076,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c959b110de2b4275a4cb3c429d0a749ae7a7467c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e4f554ff590d5bf70246f92c0e6cc286a09811c9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/CoachingInteractionClosure-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/CoachingInteractionClosure-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 30641,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "76b4ea1feb699b725c290ff0555a41cd58390e57",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/CoachingInteractionInitialization-2.flow-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/CoachingInteractionInitialization-2.flow-meta.xml",
+            "isDirectory": false,
+            "size": 24409,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5441185d0f4640cd8247b8ae6af6197b5c63a17a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/UpdateOpportunityStageToClosedLost-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/flows/UpdateOpportunityStageToClosedLost-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 16929,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a03273746f2d05ef4b36044c7eba123fac8b7921",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b7baa498beaf1c3ce41a8e50bbfdb936d7a0df6f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets/ContentCategories.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets/ContentCategories.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 2397,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5caf202cd820fbfb675bf011ddfa17a60e651bf7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets/ContentPipelineStages.globalValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/globalValueSets/ContentPipelineStages.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1027,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f8c0a522a7a59088199cc37c2f543e4f19b25dff",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4d44883c7dc84aa9cb361a0c12872522a03bbfb3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Admin %28Account%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Admin %28Account%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 13275,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ac9e5f6a8d630ff6f93f072f75da30771942e9a7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Author Growth %28Account%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Author Growth %28Account%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 11086,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c88abb92f3643dbcdecafbaf85638e3c94ac21c6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Coaching %28Account%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Account-Coaching %28Account%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 12583,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3a37ae4e67ad362ba862ac20184b3f497a20d8ea",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Case-Coaching Interaction %28Case%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Case-Coaching Interaction %28Case%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 13778,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b9e3bc3640b2a47b546fb7872492bc8e757c5a94",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Contact-Author Growth %28Contact%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Contact-Author Growth %28Contact%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9534,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c23a61e1f1b1c64509acd72f078dafd947d8c972",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Lead-Admin %28Lead%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Lead-Admin %28Lead%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 11901,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5918b958e297427d9f381183a3bb9b08daea914e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Lead-Author Growth %28Lead%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Lead-Author Growth %28Lead%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10879,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ef7de9f4ed624bca34b325fb52a9e6c8e5adfaed",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Opportunity-Author Growth %28Opportunity%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/Opportunity-Author Growth %28Opportunity%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9749,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f859ca7062e74861ebe1672f06cc5ef882b4d06c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/SystemSettings__c-System Settings Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/layouts/SystemSettings__c-System Settings Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2555,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b9768f8383fe97a32061a0da71f3775a4329e1a3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "54f3dfd2d3b3f15853960e8bc8152326d48a7d0f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f32ad09b2a53442c7c55fea3adc2ba6c353c6f5e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1515469699000,
+            "changeTime": 1515469699000,
+            "contentHash": "e06d76ec6a746f72b34954a6eabf61a28712ed01",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f0593ea97c70b650fb2452e13524b2e771548b85",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts/Account_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts/Account_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "cd0a83e1cc1ef97061c2766aa50b2a3113696778",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts/CoachingCompactLayout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/compactLayouts/CoachingCompactLayout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1629065f6fa1898a1cc62adb0daa4af7b0b6fe4e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 884,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c7bb949793346d261f1d6a8b1c750197efe6a3ca",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AcceptableItemsSinceLastInteraction__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AcceptableItemsSinceLastInteraction__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 733,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "629abd9ad59fe7c251cc6a700fe547cc62e72ed1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AgreementAcceptableItems__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AgreementAcceptableItems__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 730,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ad84db7b966af27d771f86f86dfa16d72ed89f50",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AgreementReviewedItems__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/AgreementReviewedItems__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 708,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "544f5c24b4063561d7e154c1b60d985aa5e9b092",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "cc9c0b1cb9300da8ae875b18664ef408f78023bc",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/CoachingLevel__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/CoachingLevel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 984,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "581f3ccd83b6307d1da48d27506f032842f69b31",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ContentTrustStage__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ContentTrustStage__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 617,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "33ce77ab5179dcfe1731bfc10fa8b069d32b53ee",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/DaysSinceLastClosedInteraction__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/DaysSinceLastClosedInteraction__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 632,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "df235ca3bfcdd4ca2238887ca6383261170bb794",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Elements_Contributor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Elements_Contributor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "32daab1d7b5c24100fe7bc855882368ef5fd978a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Envato_Market_User_URL__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Envato_Market_User_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 382,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e765cc377e1a9cb339863635bc939df5ffe50471",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/HasOpenInteractions__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/HasOpenInteractions__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 436,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "676015d182cedb98631426ecae48dcb954602fea",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Incentivized__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Incentivized__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5b04cd682c6af84809de124ee2634bd0ad0eee9b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LastClosedInteractionDate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LastClosedInteractionDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a1db30e3dd96b35d86778de0ef769ab6ea150ec4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LifetimeQualityScore__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LifetimeQualityScore__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "551a7d58e04ab16eaa755602b09498517e0b415c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LiveQualityScore__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/LiveQualityScore__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 547,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1a9a67980ff5fa52b5d2ddbe92c55fb6fa73c99f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/MonthlyUploadsCommitment__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/MonthlyUploadsCommitment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 565,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8e66a8cd08b938c495e05e72ce895310eb3ab059",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/OpenInteractionsCount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/OpenInteractionsCount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 578,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5a76b0c940bab5b30f8431ea58c0949188e6fcf6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Portfolio_URL__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/Portfolio_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "10a566772f8f599cbbd65a4d83b1aa723ceff26c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/QualityImprovementIndicator__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/QualityImprovementIndicator__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 742,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a5bba42dd297dc6e6356d8ee59bb3fa5f132a042",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReportLastClosedInteractionDate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReportLastClosedInteractionDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 794,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "400b85e43272ca57aa64955bc8a2a850c3429af9",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReportTodaysDate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReportTodaysDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 597,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ca0afe4192a792908e14255316c014bdd1f0c378",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReviewedItemsSinceLastInteraction__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/ReviewedItemsSinceLastInteraction__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 685,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "85137c02003db15a0ca32aea34cc7b2991308d05",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/TotalAcceptableItems__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/TotalAcceptableItems__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a3c29bb6eb81fb5a57f75fadece291c735143963",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/TotalReviewedItems__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/TotalReviewedItems__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 517,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "27c0fa4886aeab5a8eb18733ba0b0377bee54314",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/UUID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/fields/UUID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 539,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bff645d4ec77764a3618c7ab067e76c51426b301",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d329dc1afcab603365ab49a3f75bbf558785e080",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/QualityAssessmentFailed.listView-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/QualityAssessmentFailed.listView-meta.xml",
+            "isDirectory": false,
+            "size": 971,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1cca4040b193b3dc748119c3b7b31e46abdc0665",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/QualityAssessmentPassed.listView-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/QualityAssessmentPassed.listView-meta.xml",
+            "isDirectory": false,
+            "size": 977,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a247d1710066f7857992aafb48f3ec1983c4d974",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/Quality_Assessment_Failed_Low_Volume.listView-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/Quality_Assessment_Failed_Low_Volume.listView-meta.xml",
+            "isDirectory": false,
+            "size": 1304,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5a661a86a45add184e19a34a42bc8a891edf0cf0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/Quality_Assessment_Passed_Low_Volume1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/listViews/Quality_Assessment_Passed_Low_Volume1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 1311,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d6f5241a5bb1cfb4d65f4abca40965e2612c4e55",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2c7daca99368cd57f9325909ab442bdb2036d4b7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoToReviewedItems.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoToReviewedItems.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 838,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c0a4a4431052bfb36e0f36e6674587db43d46982",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoToReviewedItemsSinceLastClosedInteraction.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoToReviewedItemsSinceLastClosedInteraction.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 1265,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "6b3d4ebf72f44f7aeaf5c6f5df49132122323cc0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleMaps.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 820,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ed359ac5f513b975b44ee835420958f6f6213610",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleNews.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleNews.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 762,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "399a56f1982a8825ac305d05bdfe271a85c166dd",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleSearch.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Account/webLinks/GoogleSearch.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 742,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "6e79270b73f96f86d1c18498d2373250ed4b7485",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "78dd7fe84c89642cb16f70899f5a2f78b9ca2460",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/Case.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "89820e38b02c12521ed613b97dfcf135c0c77fd9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses/Coaching Process.businessProcess-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses/Coaching Process.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "87c4a25bb72f9e5b5a25d7d6d0e882af3dafb826",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses/Standard Process.businessProcess-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/businessProcesses/Standard Process.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 580,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d03d10cfec9cd23beeff5149e2ad3a62adc9cde8",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/compactLayouts",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/compactLayouts",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d2cdc99aa9c9e277517c28f3dbb8351c1b8d8528",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/compactLayouts/CoachingInteractionCompactLayout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/compactLayouts/CoachingInteractionCompactLayout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 429,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a68a4025d210942ccec00f53ac16483b64172d0d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "bf65b78f77b99c3f0d2e2c8899a0c82bfefe9257",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/AgreementQualityScore__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/AgreementQualityScore__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 502,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a7a022458bfef81e0e559de4fbeb6682993b87a1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/ClosingContentTrustStage__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/ClosingContentTrustStage__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 687,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ba42f574d3c05a3a5a39fb2b1e4621b4f6153c68",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/CoachingLevel__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/CoachingLevel__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1128,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a3a97cf25efeecfba4c444ca29712dc37b13a9be",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/OpeningContentTrustStage__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/OpeningContentTrustStage__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 687,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e4b65d0c70e5d04ad21cf2f041a622b518a15728",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/TriggerQualityScore__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/fields/TriggerQualityScore__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 500,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f64187cf2b4833e0423d0140773a1107d8f5754a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "caf812d0ea84f5915b2dbba8ea779abd986d1dd9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes/CoachingInteraction.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes/CoachingInteraction.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2242,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "977e040c255e8b49fbaa4ad0607a920e14061948",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes/StandardCase.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/recordTypes/StandardCase.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2223,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "92d7d5082123dcf74a1143c363560b15c502dce8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/validationRules",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/validationRules",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "660ebba6711a3cf2a4b5d8352a415c90edb125a2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/validationRules/CoachingLevelReadOnlyAfterCreation.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Case/validationRules/CoachingLevelReadOnlyAfterCreation.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 599,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "fc0dc81c3a2445be822dc2360aa0559839b7d5a1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "654b466aef3c357baa4d3df11693cb7918f06c8e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "5dab4561a102d10680e4e7312538b82b9e97848a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks/GoogleMaps.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks/GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 820,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7178433d76d823136fa73fdfa4a29523bcbbee43",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks/GoogleSearch.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Contact/webLinks/GoogleSearch.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 767,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0789dd4be23e51cefb327f3ba93c85e80e653c75",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "49266c37746f24594fc54e39eca974adce7a9321",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/Lead.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/Lead.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/businessProcesses",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/businessProcesses",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d4a4c390854a0c56454787848372867a865934c7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/businessProcesses/External Author Prospects.businessProcess-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/businessProcesses/External Author Prospects.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 770,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "538b5f428ccff22a057d16b639afe7b557faa67f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "6725111b4c9f85d53314f47dff055d68a52e51c7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts/AuthorGrowthCompactLayout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts/AuthorGrowthCompactLayout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ebc32970883fdce872ea7cd5e87431dc4be16865",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts/Leads_Custom_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/compactLayouts/Leads_Custom_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "cf9c274b837108c9924c8a3d43562bb5017bb304",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "00508ffb56ef64361abf6528c87e52875a3323e7",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Batch__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 519,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c399ddbf66507391bae214f161f6464906f81e7b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 608,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "715e2231a216defef6a7b2390841d984de007c72",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/ImageSource__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/ImageSource__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f0118411d2a24ccdc8c8fc00c251136ec6bc0753",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Incentivized__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/Incentivized__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 520,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "cfeccca096009e0c9cfec8d08a2407298247429a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/LeadSource__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/LeadSource__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 373,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a71bcd365b74419901c7099ceab281eafc9d9b00",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/PortfolioURL__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/fields/PortfolioURL__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d3ca1ab91319a51057888225a334b98a46d02b7b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/recordTypes",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/recordTypes",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e3a0fe22e7bc233fef540025bc8f3742e1360b3d",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/recordTypes/ExternalAuthorProspects.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/recordTypes/ExternalAuthorProspects.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7358,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "89bd767d702fb468bbfa67cbc55d6215812d77f5",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/webLinks",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/webLinks",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3a31a43cc23406f785523efa600018912d4f1197",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/webLinks/GoogleMaps.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Lead/webLinks/GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 790,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0b285e831aa3dc3ce8548bcb9f116f652423cbd4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "50dda3a5839c1f3286c8584143575aab6149e0a3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "71c5ce2bb2174f89a93b20ffe874c6832007a4e2",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses/Elements Recruitment Process.businessProcess-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses/Elements Recruitment Process.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 806,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "90e4f1a0cea3e6fdc584eda17c10979dc540a938",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses/Fonts Chase.businessProcess-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/businessProcesses/Fonts Chase.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 511,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8184aaa4e01a53af401a70f3030a2137a62f5b78",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7388a592a0538c022f2906b105266bdaa7359913",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts/Author_Growth_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts/Author_Growth_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "320d80ca51a5e1c39209ebcfe404a273d4697d23",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts/New_Awesome_Companct_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/compactLayouts/New_Awesome_Companct_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "984dee22b1d11c18a4b2d67eab8ca5ff13fc048f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 510,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "585321bb6a65aaf2937767de40e0a0ce3061405e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Agreed_to_Terms_Conditions__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Agreed_to_Terms_Conditions__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2bdd565444948e74e3de859399bd3f27dda227e6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Batch__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Batch__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "82c3211da685b84b63175da23de6dda8753dcf06",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Budget_Confirmed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Budget_Confirmed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 385,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "a3525f52dc0205c74085a8e1803aca95351e8487",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "28d2c0a8bb4c997822c625111d543aa09a67698a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Discovery_Completed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Discovery_Completed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "eadd1495201500b5835335da090928a0e5180f1c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Elements_Contributor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Elements_Contributor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "8a7b67ba9a93af29572acdeec596669f4bfe9ef5",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Incentivized__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Incentivized__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "33e9804f72377bdfa41497cdc74677e42e05abb4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Loss_Reason__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Loss_Reason__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1588,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "e5fd87eea6794c0a77e9c322e7a8397ae141bb06",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Passed_Final_Quality_Check__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Passed_Final_Quality_Check__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b1af31400c2e1ebec7dd02181dc91f57e00c70c7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PaymentDetailsCompleted__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PaymentDetailsCompleted__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "24e96e8de7d1fdf93b995d7bb83772b7c04d09be",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PhotoDune_Incentivised__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PhotoDune_Incentivised__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "412d3458fe09119ca0f71b8d1610c339d9a1b61d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PhotoDune_Only__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/PhotoDune_Only__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1882832b483f396755dff9b2d7a86fec2f9dfe19",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Tax_Form_Completed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/fields/Tax_Form_Completed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "51b64c869eeb57e671f337883bd11dc1999b6f42",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4de93e90265e96405749c6de36489b008102f77d",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes/Author.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes/Author.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2375,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0a5f099823d2d12306ea0448df2b122dd9c8c84f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes/Font_Author.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/recordTypes/Font_Author.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2251,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0ca16f1971195acd0a52e25e69fc7d9af409e9a3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4ac0fe680c4fe16d82d2ca95de94e128461bae3a",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules/Closed_Won_Check.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules/Closed_Won_Check.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 606,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "37ab385f2c8596c717098552d623c076f8fb15d8",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules/OptedIn_Progression_Rule.validationRule-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/Opportunity/validationRules/OptedIn_Progression_Rule.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 634,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3d6e7f0f7fc5a8864f6b330ce038658975443027",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ee92e375e8931b250328b6d622243214d994bf1f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/SystemSettings__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/SystemSettings__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2128,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "9b218febe7ec7d9efd41c6f0d99f9cc9e921d17b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "dd991875b6fa074152e08f373323db0e9536c40c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/Host__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/Host__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4b4aaadbb5bb1bbe7521d57dd9d88260c3b7ee61",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/KeyId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/KeyId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1d184fa66fb4141894eaead2c5b5619116896908",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/PrivateKey__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/objects/SystemSettings__c/fields/PrivateKey__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2f4f238130c725346532c354441f81e4d4e20e29",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "c78863f46fb4380c16457e6339ae685b6277d1bc",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Author Growth Specialist.profile-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Author Growth Specialist.profile-meta.xml",
+            "isDirectory": false,
+            "size": 12305,
+            "modifiedTime": 1515542890000,
+            "changeTime": 1515542890000,
+            "contentHash": "55f6049378bfeb216c929af42add6b2492442660",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Author Operations Manager.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Author Operations Manager.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11460,
+            "modifiedTime": 1515543688000,
+            "changeTime": 1515543688000,
+            "contentHash": "233399229b9b8a25d55826cda3d27e45b4359ea0"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Content Trust Author Advisor.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/profiles/Content Trust Author Advisor.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11120,
+            "modifiedTime": 1515543688000,
+            "changeTime": 1515543688000,
+            "contentHash": "bd3360fe0adf0a35751b25dcc0775aeb37605bfb"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "3f8fe64e5ea51cf3385d8b6d731449a699434ab9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Account.NewCoachingInteraction.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Account.NewCoachingInteraction.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1036,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "9f878e461232f3fbe6fcc4a7a56d208d2c24fba2",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.NewChildCase.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.NewChildCase.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1600,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f36d52f61113e06e9e5de1edeb70edd924d211c7",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.SendEmail.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.SendEmail.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1676,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "693d7b8389e6be8282143ea8f3f3239b1159672e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.SendRichTextEmail.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/Case.SendRichTextEmail.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1814,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "ce340de76c3b2ae60933ad02ee5daa861d5699bd",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/LogACall.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/LogACall.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1709,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "813b352b8dee7ac268955f7d9268d4670c6d53f0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewCase.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewCase.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1337,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "269b64041bbb75c52505d0d5961f35997129edf6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2510,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "d394b0283ae4de863848cc158016eb2950fe392c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1747,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2f626a5926937bc421c006dce026d1eefe2b3352",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/SendEmail.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/quickActions/SendEmail.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2211,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "eb34e60b227192e238e9cc181b353169aa1bbed3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/remoteSiteSettings",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "9b645c3f5022146aa767e033a1fe6e9cef9c673e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/remoteSiteSettings/PhotoQC.remoteSite-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/remoteSiteSettings/PhotoQC.remoteSite-meta.xml",
+            "isDirectory": false,
+            "size": 270,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "eb5ee0155306ebd74244f78994c45df2a05d92a8",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f53b5c029e7398fb17fc2bc268901b53d54bb370",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "cf9078b1d116b93bab52a3c987e576bc389c8f3b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/AuthorGrowthActivityReport.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/AuthorGrowthActivityReport.report-meta.xml",
+            "isDirectory": false,
+            "size": 2112,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "72c7d020f4edd12c63f173e17797ea5fb475f99f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/Opportunity_Contact_Roles_AE.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/Opportunity_Contact_Roles_AE.report-meta.xml",
+            "isDirectory": false,
+            "size": 1803,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "b8e1e725481cb2a74f25d8011671d99cef40cc71",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/Opportunity_ID_VH_AE.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports/Opportunity_ID_VH_AE.report-meta.xml",
+            "isDirectory": false,
+            "size": 1989,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "936b1e2ea5095762afefdb827b20151d6a45ef86",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports.reportFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorGrowthReports.reportFolder-meta.xml",
+            "isDirectory": false,
+            "size": 1037,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7948010968d01f91100e5933e681b94c4c89b66f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "72cc0664f1843a5a1f8034128186f6162ffc13a4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/All_cases.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/All_cases.report-meta.xml",
+            "isDirectory": false,
+            "size": 1322,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "52c02439b7b316b3a5d47f28a2d7a078f380c78c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/All_cases_case_history.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/All_cases_case_history.report-meta.xml",
+            "isDirectory": false,
+            "size": 1216,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "4cdd81437118f8572cbe7bf9728b3fe630f38142",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/Lifetime_Quality_Score_by_date_Author.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/Lifetime_Quality_Score_by_date_Author.report-meta.xml",
+            "isDirectory": false,
+            "size": 1332,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "f1d914b1180d96cae04f5e4e10bb71e3f8c351fd",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/Worst_Performing_Authors_failed_cases.report-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports/Worst_Performing_Authors_failed_cases.report-meta.xml",
+            "isDirectory": false,
+            "size": 3157,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "2c10c7ddacf4e9386adda7dc87583e9a40110c65",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports.reportFolder-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/reports/AuthorManagementReports.reportFolder-meta.xml",
+            "isDirectory": false,
+            "size": 1052,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "1a71417ffacd82ed9bc0e0e9107bbcfcf5d8158d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/workflows",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/workflows",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "7fb00a023b87cf19671452bb28b7c7d588d2f173",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/workflows/Account.workflow-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/workflows/Account.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 3644,
+            "modifiedTime": 1515469609000,
+            "changeTime": 1515469609000,
+            "contentHash": "0612bfe165e71410d5e0b54c00d19d57e9d4a239",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1515469621000,
+            "changeTime": 1515469621000,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/SystemAdmin.role-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/SystemAdmin.role-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "d9cb4b9fbc8f849621ff0f6ab049623a83dc52ff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/ContentTrustAuthorAdvisor.role-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/ContentTrustAuthorAdvisor.role-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "5764130d41bf574bced1640d4aed1c22b5501987",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorOperationsManager.role-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorOperationsManager.role-meta.xml",
+            "isDirectory": false,
+            "size": 465,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "25aaf332cc8ea789dc13c0db936495fd0bbf4b10",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorSuccessManager.role-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorSuccessManager.role-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "dde73ecb743b1d530956f485998dcd3f7ad1f845",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorGrowthSpecialist.role-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles/AuthorGrowthSpecialist.role-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "8a5d382db628887e52c1588c33a6776358acbd83",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups/AuthorGrowth.group-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups/AuthorGrowth.group-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "5d2ef74dfaae98a246ac241e9c2c3a5c04cd3daa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups/AuthorManagement.group-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups/AuthorManagement.group-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "36a9aea91a28c64485aa6e1c8cab6a9f92e2d79f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/OpportunityStage.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/OpportunityStage.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 5020,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "dddfc076779967769baba4b41feee18b70d0ece2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/AccountRating.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/AccountRating.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1079,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "007558a4436aad69b0ef3eeb2a276bef2cc4917d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/LeadStatus.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/LeadStatus.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1602,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "12c0a52f96a56cd4463c36e622ece6399d53811a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/LeadSource.standardValueSet-meta.xml",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets/LeadSource.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 1841,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "9862e6e45c5b01d59ae28e3674090688505f9212",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/roles",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "e81fc3d3e585ef51a42665a131c2aca469f5960b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/groups",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "ef4e65df7353484e7f3ea6400882d07e8df8e398",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets",
+        {
+            "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/author-success/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1515541823000,
+            "changeTime": 1515541823000,
+            "contentHash": "e8c08840132803fae0f0a18be0ad41b2bef99abc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Closed_Won_Check</fullName>
+    <active>true</active>
+    <description>Rule preventing opportunity closing without all 3 boxes ticked</description>
+    <errorConditionFormula>ISPICKVAL(StageName, "Closed Won") &amp;&amp; ( not(Agreed_to_Terms_Conditions__c) || not(Tax_Form_Completed__c) || 
+not( Passed_Final_Quality_Check__c ) 
+)</errorConditionFormula>
+    <errorMessage>Please ensure author has passed final check and tick field on opportunity record</errorMessage>
+</ValidationRule>

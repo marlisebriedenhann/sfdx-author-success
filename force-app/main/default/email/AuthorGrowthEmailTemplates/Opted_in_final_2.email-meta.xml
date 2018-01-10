@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: Opted-in-final-2</name>
+    <style>none</style>
+    <subject>Last Chance! Please Complete Your Tax Form by April 17th</subject>
+    <textOnly>Hello again,
+
+{!User.FirstName} here from Envato!
+
+I want to thank you for promptly signing the Envato Elements Contributor Agreement. You are well on your way to this great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.
+
+Before we can move you forward however there is one last step we need you address. We’ve been looking through our records and it turns out that we’re missing a pretty important document from you. Your tax form!
+
+Complete your form here: https://photodune.net/user/{!Account.Name}/tax_information/new
+
+Envato is required by law to withhold certain taxes from your earnings as a Elements contributor and we use the country information from your tax form to calculate the amount to withhold. More information about this and instructions for how to complete your tax form are in our help center: https://help.contributors.elements.envato.com/hc/en-us/sections/205905868-Tax-and-Withholding
+
+We can’t move you ahead in the process until this step is complete so please fill in your tax form and let us know when you're done!
+
+Here is a brief reminder of what you have to look forward to:
+
+Special, Limited-time PhotoDune non-exclusive author fee of 37.5%. That’s around 50% net earnings from every sale!
+Join a select group of contributors on Envato Elements and earn your share of 50% of Elements’ net revenue, calculated under our innovative subscriber share model as an additional revenue stream
+Choose your own pricing on PhotoDune
+
+Thanks
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

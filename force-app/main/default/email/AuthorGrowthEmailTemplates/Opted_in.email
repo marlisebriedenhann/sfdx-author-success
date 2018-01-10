@@ -1,0 +1,33 @@
+Hello again,
+
+<p>{!User.FirstName} here from Envato! </p>
+
+<p>I want to thank you for promptly signing the Envato Elements Contributor Agreement. You are well on your way to this great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.</p>
+
+<p>Before we can move you forward however there is one last step we need you address. We’ve been looking through our records and it turns out that we’re missing a pretty important document from you. Your tax form!</p>
+
+<b>Complete your form here:</b> <a href="https://photodune.net/user/{!Account.Name}/tax_information/new">https://photodune.net/user/{!Account.Name}/tax_information/new</a>
+
+<p>Envato is required by law to withhold certain taxes from your earnings as a Elements contributor and we use the country information from your tax form to calculate the amount to withhold. More information about this and instructions for how to complete your tax form are in our help center: <a href="https://help.contributors.elements.envato.com/hc/en-us/sections/205905868-Tax-and-Withholding">https://help.contributors.elements.envato.com/hc/en-us/sections/205905868-Tax-and-Withholding</a></p>
+
+<p><b>We can’t move you ahead in the process until this step is complete</b> so please fill in your tax form and let us know when you're done! </p>
+
+Here is a brief reminder of what you have to look forward to:
+
+<ul><li>Special, Limited-time PhotoDune <b>non-exclusive</b> author fee of <b>37.5%</b>. That’s around 50% net earnings from every sale!</li>
+
+<li>Join a select group of contributors on <a href="https://elements.envato.com/">Envato Elements</a> and earn your share of 50% of Elements’ net revenue, calculated under our innovative <a href="https://help.contributors.elements.envato.com/hc/en-us/articles/216749198-What-is-the-Subscriber-Share-model-">subscriber share model as an additional revenue stream</a> </li> 
+
+<li><a href="https://help.market.envato.com/hc/en-us/articles/204651020-Selecting-a-Price-on-an-Author-Driven-Pricing-Category">Choose your own pricing on PhotoDune</a></li></ul>
+
+<p>Thanks</p>
+
+<p>{!User.FirstName}</p>
+
+<p>-- </p>
+
+<p>Envato</p>
+
+<p><a href="http://envato.com">http://envato.com</a></p>
+
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>

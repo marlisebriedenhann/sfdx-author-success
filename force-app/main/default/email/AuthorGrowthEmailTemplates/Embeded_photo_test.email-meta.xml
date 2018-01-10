@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>New Photos: Embeded photo test</name>
+    <style>none</style>
+    <subject>Embded photo</subject>
+    <textOnly>Envato Elements: Photos Invitation | Private &amp; Confidential    View in browser
+
+New Earning Opportunity for Photographers
+
+Invitation only
+
+Hi {!Lead.Company},
+
+
+{!User.FirstName} here from Envato, hope you're doing well!
+
+
+We loved your portfolio on {!Lead.LeadSource__c}. In particular the natural lighting you've captured in your office shoot. We think you could be a great fit for a new creative community we're building called Envato Elements.
+
+
+Envato Elements offers a carefully curated selection of high quality digital assets to agencies, designers, corporate marketers and other professionals. One year in, we have 1,200 talented authors, more than 340,000 quality items and a rapidly growing subscriber base.
+
+
+We added a photos category to Envato Elements a few months ago and our photographers are already seeing fantastic results:
+
+
+----------------------------------------
+
+"My income on Elements became the second most important in July. Did not expect. It is very nice." - Photo author
+
+
+"Envato is now one of my top sites, so congratulations and thank you!" - Photo author
+
+
+"June's earnings on Envato Elements was almost as much as I got from Adobe Stock, which is my #2 earning site. Was pleasantly surprised. Wish Envato Elements all the best." - Photo Author
+
+----------------------------------------
+
+
+You can read about our innovative subscriber share model here.
+
+
+What Are We Looking For?
+
+Self-curated collections in line with our Commercial demand guidelines
+A commitment to uploading photos every month.
+(Ideally 100 photos every month however, we can discuss what is achievable for you.)
+
+
+If you're interested in joining our community and being part of the Elements journey, simply reply "I'm interested" and we'll get back to you with next steps.
+
+Feel free to ask any questions you may have about this invitation only offer. Thank you so much and hope to hear from you soon! :-)
+
+
+Regards,
+{!User.FirstName}
+Envato Elements
+
+Envato Elements
+
+© 2017 Envato Elements Pty Ltd.
+(ABN: 87 613 824 258)
+121 King Street, Melbourne VIC 3000 Australia
+
+Privacy Policy • Manage Preferences • Unsubscribe</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

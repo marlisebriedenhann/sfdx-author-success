@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CoachingLevelReadOnlyAfterCreation</fullName>
+    <active>true</active>
+    <description>Checks that the coaching level has not been modified after creation</description>
+    <errorConditionFormula>ISCHANGED(CoachingLevel__c) &amp;&amp;  ! ISNEW()</errorConditionFormula>
+    <errorDisplayField>CoachingLevel__c</errorDisplayField>
+    <errorMessage>The coaching level for this interaction cannot be changed after the interaction has been created.</errorMessage>
+</ValidationRule>

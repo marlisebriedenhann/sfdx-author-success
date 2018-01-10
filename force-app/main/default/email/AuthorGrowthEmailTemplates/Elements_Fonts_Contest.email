@@ -1,0 +1,41 @@
+<p>Hi {!Account.Name}, </p>
+<p>Shane here from Envato, hope you're doing well!</p>
+<p>I wanted to contact you personally to let you know about an exciting new <a href="https://forums.envato.com/t/elements-contest-web-fonts-4-500/93331"><b>Fonts Contest</b></a> open to all Envato Elements contributors!</p>
+<p>We're looking for the best <b>Web Fonts</b> as a lead up to a big marketing push on Fonts. We're putting up <b>$4,500</b> USD in cash prizes, so start uploading your best Fonts for a chance to win!</p>
+
+<p>The contest runs until <b>Friday 17th March 2017</b>.</p>
+<p>Here are the details...</p>
+    <p><b>The Prizes:</b></p>
+<ul>
+  <li><b>Serif Fonts:</b> Best 2 Serif Web Fonts win <b>$500</b> each</li>
+  <li><b>Sans-Serif Fonts: </b>Best 2 Sans-Serif Web Fonts win <b>$500</b> each</li>
+  <li><b>Script Fonts:</b> Best 2 Script Web Fonts win <b>$500</b> each</li>
+  <li><b>Handwritten &amp; Decorative Fonts:</b> Best 2 Handwritten &amp; Decorative Web Fonts win <b>$500</b> each</li>
+</ul>
+<p><b>Extra Bonus Prize:</b></p>
+  <ul>
+    <li>The most web fonts uploaded + published during the contest wins an extra <b>$500</b></li>
+  </ul>
+<p><b>How To Enter:</b></p>
+<ul>
+  <li>The contest runs until Friday <b>12th March 2017</b>. No entries will be accepted after that time.</li>
+  <li>To enter the ‘Best Item Prize’, you must upload and ‘publish’ 1 or more fonts before the closing date of the contest.</li>
+  <li>Be sure to tick the Web Fonts box when uploading. For more information about uploading Fonts on Elements go here: <a href="https://help.contributors.elements.envato.com/hc/en-us/articles/218115438-Fonts">https://help.contributors.elements.envato.com/hc/en-us/articles/218115438-Fonts</a></li>
+  <li>As a contributor you’re eligible to win multiple ‘Best Item Prizes’.</li>
+  <li>Only items that meet our quality standards are eligible to win. We may disable or delete any items that fail to meet our standards.
+    
+  </li>
+</ul>
+<p>Read the full Terms and Conditions over on the forums. <br>
+  <a href="https://forums.envato.com/t/elements-contest-web-fonts-4-500/93331">TERMS AND CONDITIONS</a><br>
+
+<p>Thanks and good luck!</p>
+<p>{!User.FirstName}</p>
+
+<p>-- </p>
+
+<p>Envato</p>
+
+<p><a href="http://envato.com">http://envato.com</a></p>
+
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>

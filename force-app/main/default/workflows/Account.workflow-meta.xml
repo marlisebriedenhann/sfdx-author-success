@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldUpdates>
+        <fullName>UpdateLifetimeQualityScore</fullName>
+        <description>Calculates the value of the Lifetime Quality Score and updates the field</description>
+        <field>LifetimeQualityScore__c</field>
+        <formula>IF(TotalReviewedItems__c &lt;> 0, TotalAcceptableItems__c / TotalReviewedItems__c * 100, 0)</formula>
+        <name>Update Lifetime Quality Score</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>true</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>UpdateLiveQualityScore</fullName>
+        <description>Calculates the Live Quality Score and sets the new value.</description>
+        <field>LiveQualityScore__c</field>
+        <formula>IF((TotalReviewedItems__c - BLANKVALUE(AgreementReviewedItems__c,0)) &lt;> 0, (TotalAcceptableItems__c - BLANKVALUE(AgreementAcceptableItems__c,0)) / (TotalReviewedItems__c - BLANKVALUE(AgreementReviewedItems__c,0)) * 100, 0)</formula>
+        <name>Update Live Quality Score</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>true</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>UpdateNonInteractionAcceptableItems</fullName>
+        <description>Calculates the the value of acceptable items since the last closed interaction and updates the field</description>
+        <field>AcceptableItemsSinceLastInteraction__c</field>
+        <formula>IF(TotalAcceptableItems__c &lt;> 0, TotalAcceptableItems__c  -  AgreementAcceptableItems__c, 0)</formula>
+        <name>Update NonInteraction Acceptable Items</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>true</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>UpdateNonInteractionReviewedItems</fullName>
+        <description>Calculates the value of reviewed items since the last closed interaction and updates the field.</description>
+        <field>ReviewedItemsSinceLastInteraction__c</field>
+        <formula>IF(TotalReviewedItems__c &lt;> 0, TotalReviewedItems__c  -  AgreementReviewedItems__c, 0)</formula>
+        <name>Update NonInteraction Reviewed Items</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <rules>
+        <fullName>Recalculate Quality</fullName>
+        <actions>
+            <name>UpdateLifetimeQualityScore</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>UpdateLiveQualityScore</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>UpdateNonInteractionAcceptableItems</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>UpdateNonInteractionReviewedItems</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>true</active>
+        <description>Trigger recalculation of the Quality fields when any of the reviewed item counts change.</description>
+        <formula>OR(   ISCHANGED(TotalAcceptableItems__c),   ISCHANGED(TotalReviewedItems__c),   ISCHANGED(AgreementAcceptableItems__c),   ISCHANGED(AgreementReviewedItems__c) )</formula>
+        <triggerType>onAllChanges</triggerType>
+    </rules>
+</Workflow>

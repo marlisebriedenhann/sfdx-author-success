@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QualityAssessmentFailed</fullName>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>LifetimeQualityScore__c</columns>
+    <columns>ContentTrustStage__c</columns>
+    <columns>LiveQualityScore__c</columns>
+    <columns>ReviewedItemsSinceLastInteraction__c</columns>
+    <columns>DaysSinceLastClosedInteraction__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>LiveQualityScore__c</field>
+        <operation>lessThan</operation>
+        <value>40</value>
+    </filters>
+    <filters>
+        <field>ReviewedItemsSinceLastInteraction__c</field>
+        <operation>greaterOrEqual</operation>
+        <value>200</value>
+    </filters>
+    <filters>
+        <field>HasOpenInteractions__c</field>
+        <operation>equals</operation>
+        <value>0</value>
+    </filters>
+    <label>Quality Assessment Failed</label>
+</ListView>

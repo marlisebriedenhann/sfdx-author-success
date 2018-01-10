@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: General Chase 4</name>
+    <style>none</style>
+    <subject>Envato Photos - Time is running out! Sign up for this limited time special rate!</subject>
+    <textOnly>Hi {!Account.Name},
+
+Photos on Elements is launching soon.
+
+In order to get involved, we need you to take some action.
+
+You’re the kind of photographer we’re looking for in this new world of PhotoDune + Envato Elements and this is a great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.
+
+Special, Limited-time PhotoDune non-exclusive author of 37.5%. That’s around 50% net earnings from every sale!
+Join a select group of contributors on Envato Elements and earn your share of 50% of Elements’ net revenue, calculated under our innovative subscriber share model as an additional revenue stream
+Choose your own pricing on PhotoDune
+
+What you’ll need to do:
+
+Step one is to make your photos available for inclusion on Envato Elements. Envato Elements is a separate company to PhotoDune with its own set of contributor terms, so please take some time to read and accept the Envato Elements Contributor Agreement.
+
+That’s it! If you have questions about any of this, please feel free to reach out to me directly.
+
+Thanks,
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

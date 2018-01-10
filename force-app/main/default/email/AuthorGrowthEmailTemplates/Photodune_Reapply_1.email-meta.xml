@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: Photodune Reapply-1</name>
+    <style>none</style>
+    <subject>Important: Status Change and Next Steps as a PhotoDune Author</subject>
+    <textOnly>Hi {!Account.Name},
+
+This is an update concerning your portfolio of photos with Envato.
+
+As you know we have recently reached out to you with an invitation to be a part of the new world of Envato Photos, with a fresh approach to quality on PhotoDune, and a new subscription service with Envato Elements but have yet to hear back from you.
+
+Unfortunately we have reached a point where we need to move forward without your involvement. Over the coming weeks we’ll be removing your PhotoDune items as part of our clean up process. If you are selling other item types on other Envato marketplaces, those items will not be affected by this change on PhotoDune.
+
+Please note, if you would like to reconsider and give Elements a try, and continue as a PhotoDune and Elements Author, you will need to read and accept the Envato Elements Contributor Agreement by Wednesday 12th April 2017.
+
+After that date you’ll need to reapply to join PhotoDune &amp; Elements when we reopen applications.
+
+If you have any questions or concerns, please feel free to contact me.
+
+Thanks,
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

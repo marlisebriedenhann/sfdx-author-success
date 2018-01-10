@@ -1,0 +1,17 @@
+<p dir="ltr">Hi {!Lead.Company},<br /><br />{!User.FirstName} here from Envato, hope you're doing well!<br /><br />We really liked your portfolio on {!Lead.LeadSource__c} and invite you to upload photos to our new digital asset offerings,&nbsp;<a href="https://elements.envato.com/">Envato Elements</a> subscription service, and <a href="https://photodune.net">PhotoDune</a> marketplace.</p>
+<p>We recently cleaned up the PhotoDune library and launched a new photo category on Elements which is attracting lots of new customers and our photographers are already seeing fantastic results. Our current average monthly earnings are over $200 US (and climbing) &amp; our top earners exceed $3,000 US per month.</p>
+
+<p dir="ltr"><em>&nbsp;"June's earnings on Envato Elements was almost as much as I got from Adobe Stock, which is my #2 earning site. Was pleasantly surprised. Wish Envato Elements all the best."</em> - Photos Author</p>
+
+<p>As you can see from the quote above, our innovative <a href="https://help.contributors.elements.envato.com/hc/en-us/articles/216749198-What-is-the-Subscriber-Share-model-">subscriber share model</a> is working well for the photographers.<br /><br /><strong>What are we looking for?</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Self-curated collections in line with our <a href="https://help.market.envato.com/hc/en-us/articles/217906203-Commercial-Demand-Guide">commercial demand guidelines</a>.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A commitment to uploading photos every month. (We can discuss what is achievable for you.)</p>
+</li>
+</ul>
+<p>If you'd like to earn more from your photos, simply reply "<strong>I'm interested</strong>" and we'll get back to you with next steps.<br /><br />Feel free to ask any questions you may have about this invitation only offer. Thank you so much and hope to hear from you soon! :-)</p>
+<p dir="ltr">Regards,<br />{!User.FirstName}<br />Envato Elements</p>
+<p>&nbsp;</p>

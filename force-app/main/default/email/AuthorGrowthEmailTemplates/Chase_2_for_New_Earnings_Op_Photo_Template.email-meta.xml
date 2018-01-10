@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>This template scrapes a photo from the authors site</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>New Photos: Chase 2 for New Earnings Op (Photo Template)</name>
+    <style>none</style>
+    <subject>Your photos got our attention, {!Lead.FirstName}! Intakes final call.</subject>
+    <textOnly>Hi {!Lead.Company},
+
+{!User.FirstName} here from Envato, hope you're doing well!
+
+Your photo portfolio was recently handpicked to receive an invitation to join Envato Elements subscription service (https://elements.envato.com) and PhotoDune marketplace (https://photodun.net). The current intake is closing soon and we have not heard from you yet! 
+
+We recently cleaned up the PhotoDune library and launched a new photo category on Elements which is attracting lots of new customers and our photographers are already seeing fantastic results. Our current average monthly earnings are over $200 US (and climbing) &amp; our top earners exceed $3,000 US per month.
+
+ "June's earnings on Envato Elements was almost as much as I got from Adobe Stock, which is my #2 earning site. Was pleasantly surprised. Wish Envato Elements all the best." - Photos Author
+
+As you can see from the quote above, our innovative subscriber share model is working well for the photographers. You can read more about the model here: https://help.contributors.elements.envato.com/hc/en-us/articles/216749198-What-is-the-Subscriber-Share-model-
+
+What are we looking for?
+
+    1. Self-curated collections in line with our commercial demand guidelines (https://help.market.envato.com/hc/en-us/articles/217906203-Commercial-Demand-Guide)
+
+    2. A commitment to uploading photos every month. (We can discuss what is achievable for you.)
+
+If you would like to earn more from your photos, simply reply "I am interested" and we'll get back to you with next steps.
+
+Feel free to ask any questions you may have about this invitation only offer. Thank you so much and hope to hear from you soon! :-)
+
+Regards,
+{!User.FirstName}
+Envato Elements</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

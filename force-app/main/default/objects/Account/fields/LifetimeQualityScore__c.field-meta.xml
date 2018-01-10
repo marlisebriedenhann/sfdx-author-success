@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LifetimeQualityScore__c</fullName>
+    <description>The Author's Quality Score based on all items reviewed and those deemed acceptable.</description>
+    <externalId>false</externalId>
+    <label>Lifetime Quality Score</label>
+    <precision>11</precision>
+    <required>false</required>
+    <scale>1</scale>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

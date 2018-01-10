@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OptedIn_Progression_Rule</fullName>
+    <active>true</active>
+    <description>Rule preventing opportunity stage moving from Stage 2 to 3.</description>
+    <errorConditionFormula>ISPICKVAL(StageName, "Legitified") &amp;&amp; ( not(Agreed_to_Terms_Conditions__c) || not(Tax_Form_Completed__c)
+)</errorConditionFormula>
+    <errorMessage>Please ensure customer has agreed to terms &amp; conditions as well as filled out the tax form - then check both boxes on the opportunity record.</errorMessage>
+</ValidationRule>

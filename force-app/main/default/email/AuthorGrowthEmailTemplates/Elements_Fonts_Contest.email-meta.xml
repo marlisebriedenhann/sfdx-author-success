@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Fonts Contest</name>
+    <style>none</style>
+    <subject>Envato Elements Fonts Contest - $4,500 up for grabs!</subject>
+    <textOnly>Hi {!Account.Name},
+
+Shane here from Envato, hope you're doing well!
+
+I wanted to contact you personally to let you know about an exciting new Fonts Contest open to all Envato Elements contributors!
+
+We're looking for the best Web Fonts as a lead up to a big marketing push on Fonts. We're putting up $4,500 USD in cash prizes, so start uploading your best Fonts for a chance to win!
+
+The contest runs until Friday 17th March 2017.
+
+Here are the details...
+
+The Prizes:
+
+Serif Fonts: Best 2 Serif Web Fonts win $500 each
+Sans-Serif Fonts: Best 2 Sans-Serif Web Fonts win $500 each
+Script Fonts: Best 2 Script Web Fonts win $500 each
+Handwritten &amp; Decorative Fonts: Best 2 Handwritten &amp; Decorative Web Fonts win $500 each
+
+Extra Bonus Prize:
+
+The most web fonts uploaded + published during the contest wins an extra $500
+
+How To Enter:
+
+The contest runs until Friday 12th March 2017. No entries will be accepted after that time.
+To enter the ‘Best Item Prize’, you must upload and ‘publish’ 1 or more fonts before the closing date of the contest.
+Be sure to tick the Web Fonts box when uploading. For more information about uploading Fonts on Elements go here: https://help.contributors.elements.envato.com/hc/en-us/articles/218115438-Fonts
+As a contributor you’re eligible to win multiple ‘Best Item Prizes’.
+Only items that meet our quality standards are eligible to win. We may disable or delete any items that fail to meet our standards.
+
+Read the full Terms and Conditions over on the forums.
+TERMS AND CONDITIONS
+
+Thanks and good luck!
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,21 @@
+<p>Hello {!Account.Name},</p>
+<p>I wanted to touch base with you once again concerning important changes with PhotoDune and how they impact you directly.</p>
+<p>We are taking a different approach to how we do stock photography at Envato and your portfolio tells us you&rsquo;re the kind of photographer we&rsquo;re looking for in this new world of PhotoDune + Envato Elements. This is a <strong>great opportunity for more exposure</strong> in a smaller, more selective library and additional, <strong>recurring earnings</strong> on our new subscription product Envato Elements.</p>
+<p>In order to get involved, <strong>we need you to take some action.</strong> Here are the details:</p>
+<ul>
+<li>Special, limited-time PhotoDune <strong>non-exclusive</strong> author fee for early sign-ups, reduced from 55% down to <strong>37.5%</strong>. That&rsquo;s around 50% net earnings from every sale!</li>
+<li>Join a select group of contributors on <a href="https://elements.envato.com">Envato Elements</a> and earn your share of 50% of Elements&rsquo; net revenue, calculated under our innovative <a href="https://help.contributors.elements.envato.com/hc/en-us/articles/216749198-What-is-the-Subscriber-Share-model-">subscriber share model</a></li>
+<li><a href="https://help.market.envato.com/hc/en-us/articles/204651020-Selecting-a-Price-on-an-Author-Driven-Pricing-Category">Choose your own pricing on PhotoDune</a></li>
+<li>Automatic approval/instant upload (no more review queues)</li>
+</ul>
+<p><strong>What you'll need to do:</strong></p>
+<ul>
+<li>Step one is to <strong>make your items available for inclusion on Envato Elements</strong>. Envato Elements is a separate company to PhotoDune with its own set of contributor terms, so please take some time to read and accept the <a href="https://envato.formstack.com/forms/envato_elements_terms_photodune">Envato Elements Contributor Agreement</a></li>
+</ul>
+<p>That&rsquo;s it! If you have questions about any of this, please feel free to reach out to me directly (josh.sprague@envato.com).</p>
+<p>Thanks,</p>
+<p>{!User.FirstName}</p>
+<p>--</p>
+<p>Envato</p>
+<p><a href="http://envato.com">http://envato.com</a></p>
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: PhotoDune Only</name>
+    <style>none</style>
+    <subject>Important Next Steps as a PhotoDune Author</subject>
+    <textOnly>Hi {!Account.Name},
+
+This is an update concerning your portfolio of photos with Envato.
+
+As you know we recently reached out to you with an invitation to be a part of the new world of PhotoDune, with a fresh approach to quality, and our new subscription service Envato Elements but have yet to hear back from you.
+
+Though we would still love to have you on Envato Elements, we have arranged for a special exception to be made in your case. We will no longer be requiring your participation with Elements in order to remain an author on PhotoDune.
+
+Please note, if you would like to reconsider, give Elements a try from day one and take advantage of our limited-time offer of a lower PhotoDune non-exclusive author fee (reduced from 55% down to 37.5%), you will need to let me know no later than Friday April 14th 2017. You will still be able to join Elements after April 14, but you will no longer be entitled to the lower PhotoDune fee.
+
+Over the next few weeks we’ll be reviewing your entire portfolio and selecting photos that match our updated guidelines
+
+and removing those that don't. You do not need to do any curating or deleting yourself, we’ll own that process (save you time) and let you know when we’re done so you can jump in and see the results.
+
+We'll also follow up with more information about what else is changing on PhotoDune as well as what you can expect from us and we'll be expecting from you going forward.
+
+This is a special exception that is currently being extended to you, and as such ask that you do not share this arrangement with others.
+
+If you have any questions or concerns, please feel free to contact me.
+
+Thanks,
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

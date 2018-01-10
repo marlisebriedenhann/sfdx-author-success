@@ -1,0 +1,27 @@
+<p>Hi {!Account.Name},</p>
+
+<p>Photos on Elements is launching soon. </p>
+
+<p>In order to get involved, we need you to take some action. </p>
+
+<p>You’re the kind of photographer we’re looking for in this new world of PhotoDune + Envato Elements and this is a great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.</p>
+
+<ul><li>Special, Limited-time PhotoDune <b>non-exclusive</b> author of <b>37.5%</b>. That’s around 50% net earnings from every sale!</li>
+
+<li>Join a select group of contributors on <a href="https://elements.envato.com/">Envato Elements</a> and earn your share of 50% of Elements’ net revenue, calculated under our innovative <a href="https://help.contributors.elements.envato.com/hc/en-us/articles/216749198-What-is-the-Subscriber-Share-model-">subscriber share model as an additional revenue stream</a> </li> 
+
+<li><a href="https://help.market.envato.com/hc/en-us/articles/204651020-Selecting-a-Price-on-an-Author-Driven-Pricing-Category">Choose your own pricing on PhotoDune</a></li></ul>
+
+
+<p><b>What you’ll need to do:</b></p>
+<p>Step one is to <b>make your photos available for inclusion on Envato Elements</b>. Envato Elements is a separate company to PhotoDune with its own set of contributor terms, so please take some time to read and accept the <a href="https://envato.formstack.com/forms/envato_elements_terms_photodune">Envato Elements Contributor Agreement</a>.</p>
+
+<p>That’s it! If you have questions about any of this, please feel free to <a href="mailto:josh.sprague@envato.com">reach out to me directly</a>.</p>
+
+<p>Thanks,</p>
+
+{!User.FirstName}
+<p>--</p>
+<p>Envato</p>
+<p><a href="http://envato.com">http://envato.com</a></p>
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>

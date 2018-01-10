@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CoachingCompactLayout</fullName>
+    <fields>Name</fields>
+    <fields>Envato_Market_User_URL__c</fields>
+    <fields>CoachingLevel__c</fields>
+    <fields>HasOpenInteractions__c</fields>
+    <fields>OwnerId</fields>
+    <label>Coaching Compact Layout</label>
+</CompactLayout>

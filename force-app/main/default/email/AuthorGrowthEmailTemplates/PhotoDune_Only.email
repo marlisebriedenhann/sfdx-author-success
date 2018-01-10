@@ -1,0 +1,25 @@
+<p>Hi {!Account.Name},</p>
+
+<p>This is an update concerning your portfolio of photos with Envato. </p>
+
+<p>As you know we recently reached out to you with an invitation to be a part of the new world of PhotoDune, with a fresh approach to quality, and our new subscription service Envato Elements but have yet to hear back from you.</p>
+
+<p>Though we would still love to have you on <b>Envato Elements</b>, we have arranged for a <b>special exception</b> to be made in your case. We will no longer be requiring your participation with Elements in order to remain an author on PhotoDune.</p>
+
+<p>Please note, if you would like to reconsider, give Elements a try from day one and take advantage of our limited-time offer of a lower PhotoDune non-exclusive author fee (reduced from 55% down to 37.5%), you will need to let me know no later than Friday <b>April 14th 2017</b>. You will still be able to join Elements after April 14, but you will no longer be entitled to the lower PhotoDune fee.</p>
+
+<p>Over the next few weeks we’ll be reviewing your entire portfolio and selecting photos that match our <a href="https://help.market.envato.com/hc/en-us/sections/200617060-PhotoDune-Requirements">updated guidelines</a> and removing those that don't. You do not need to do any curating or deleting yourself, we’ll own that process (save you time) and let you know when we’re done so you can jump in and see the results. </p>
+
+<p>We'll also follow up with more information about what else is changing on PhotoDune as well as what you can expect from us and we'll be expecting from you going forward. </p>
+
+<p>This is a special exception that is currently being extended to you, and as such ask that you do not share this arrangement with others.</p>
+
+<p>If you have any questions or concerns, please feel free to contact me.</p>
+
+<p>Thanks,</p>
+
+{!User.FirstName}
+<p>--</p>
+<p>Envato</p>
+<p><a href="http://envato.com">http://envato.com</a></p>
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>

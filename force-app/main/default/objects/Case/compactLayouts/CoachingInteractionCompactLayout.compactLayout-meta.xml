@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CoachingInteractionCompactLayout</fullName>
+    <fields>CaseNumber</fields>
+    <fields>AccountId</fields>
+    <fields>Status</fields>
+    <fields>OpeningContentTrustStage__c</fields>
+    <fields>ClosingContentTrustStage__c</fields>
+    <label>Coaching Interaction (Case) Compact Layout</label>
+</CompactLayout>

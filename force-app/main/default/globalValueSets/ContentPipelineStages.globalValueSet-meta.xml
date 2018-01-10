@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Performing</fullName>
+        <default>false</default>
+        <label>Performing</label>
+    </customValue>
+    <customValue>
+        <fullName>Quality Alert</fullName>
+        <default>false</default>
+        <label>Quality Alert</label>
+    </customValue>
+    <customValue>
+        <fullName>Quality Notice 1</fullName>
+        <default>false</default>
+        <label>Quality Notice 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Quality Notice 2</fullName>
+        <default>false</default>
+        <label>Quality Notice 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Quality Notice 3</fullName>
+        <default>false</default>
+        <label>Quality Notice 3</label>
+    </customValue>
+    <description>Content Trust Pipeline Stages</description>
+    <masterLabel>Content Pipeline Stages</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LastClosedInteractionDate__c</fullName>
+    <description>This field contains the date/time associated with the last closed interaction date. This value is rolled up to the author to allow a formula field to calculate the days since last interaction.</description>
+    <externalId>false</externalId>
+    <label>Last Closed Interaction Date</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>DateTime</type>
+</CustomField>

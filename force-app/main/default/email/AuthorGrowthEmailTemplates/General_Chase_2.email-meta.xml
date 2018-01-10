@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Elements Photos: General Chase 2</name>
+    <style>none</style>
+    <subject>Sign up early for the new PhotoDune &amp; Envato Elements special offer!</subject>
+    <textOnly>Hello {!Account.Name},
+
+I wanted to touch base with you once again concerning important changes with PhotoDune and how they impact you directly.
+
+We are taking a different approach to how we do stock photography at Envato and your portfolio tells us you’re the kind of photographer we’re looking for in this new world of PhotoDune + Envato Elements. This is a great opportunity for more exposure in a smaller, more selective library and additional, recurring earnings on our new subscription product Envato Elements.
+
+In order to get involved, we need you to take some action. Here are the details:
+
+Special, limited-time PhotoDune non-exclusive author fee for early sign-ups, reduced from 55% down to 37.5%. That’s around 50% net earnings from every sale!
+Join a select group of contributors on Envato Elements and earn your share of 50% of Elements’ net revenue, calculated under our innovative subscriber share model
+Choose your own pricing on PhotoDune
+Automatic approval/instant upload (no more review queues)
+
+What you'll need to do:
+
+Step one is to make your items available for inclusion on Envato Elements. Envato Elements is a separate company to PhotoDune with its own set of contributor terms, so please take some time to read and accept the Envato Elements Contributor Agreement
+
+That’s it! If you have questions about any of this, please feel free to reach out to me directly (josh.sprague@envato.com).
+
+Thanks,
+
+{!User.FirstName}
+
+--
+
+Envato
+
+http://envato.com
+
+This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

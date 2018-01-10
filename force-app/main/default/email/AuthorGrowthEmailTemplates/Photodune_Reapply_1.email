@@ -1,0 +1,21 @@
+<p>Hi {!Account.Name},</p>
+
+<p>This is an update concerning your portfolio of photos with Envato.</p>
+
+<p>As you know we have recently reached out to you with an invitation to be a part of the new world of Envato Photos, with a fresh approach to quality on <b>PhotoDune</b>, and a new subscription service with <b>Envato Elements</b> but have yet to hear back from you.</p>
+
+<p>Unfortunately we have reached a point where we need to move forward without your involvement. <b>Over the coming weeks we’ll be removing your PhotoDune items</b> as part of our clean up process. If you are selling other item types on other Envato marketplaces, those items will not be affected by this change on PhotoDune.</p>
+
+<p>Please note, if you would like to reconsider and give Elements a try, and continue as a PhotoDune and Elements Author, you will need to read and accept the <a href="https://envato.formstack.com/forms/envato_elements_terms_photodune">Envato Elements Contributor Agreement</a> by <b>Wednesday 12th April 2017</b>.</p>
+
+<p>After that date you’ll need to <a href="https://envato.formstack.com/forms/photodune_interest">reapply to join</a> PhotoDune & Elements when we reopen applications.</p> 
+
+<p>If you have any questions or concerns, please feel free to contact me.</p>
+
+<p>Thanks,</p>
+
+{!User.FirstName}
+<p>--</p>
+<p>Envato</p>
+<p><a href="http://envato.com">http://envato.com</a></p>
+<p>This email and its attachments may contain confidential information. If you have received this email in error, I'd appreciate you letting me know and deleting it.</p>
